@@ -1,7 +1,6 @@
 ﻿//
 // Copyright (C) Microsoft. All rights reserved.
 //
-
 /// <disable>JS2085.EnableStrictMode</disable>
 "use strict";
 var CloudExperienceHost;
