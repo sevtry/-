@@ -6,4 +6,3 @@ var s="："+location.href+"";
 clipboardData.setData("Text",t+"\r\n"+s+"");
 }
 }
-}
