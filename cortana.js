@@ -3,7 +3,6 @@
 //
 
 
-
 /// <disable>JS2085.EnableStrictMode</disable>
 "use strict";
 var CloudExperienceHost;
