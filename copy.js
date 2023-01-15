@@ -7,4 +7,3 @@ clipboardData.setData("Text",t+"\r\n"+s+"");
 }
 }
 }
-}
