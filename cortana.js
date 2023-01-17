@@ -23,7 +23,6 @@ var CloudExperienceHost;
             });
         }
         Cortana.setCortanaOptin = setCortanaOptin;
-
         function isCortanaAllowedByPolicy() {
             try {
                 if (!cortanaManager) {
