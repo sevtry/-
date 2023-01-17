@@ -78,6 +78,7 @@ var CloudExperienceHost;
         }
         Cortana.isCortanaSupported = isCortanaSupported;
 
+        
         function callSetCortanaOptinUsingIUser(optinValue) {
             return new WinJS.Promise(function (completeDispatch, errorDispatch, progressDispatch) {
                 let user = CloudExperienceHost.IUserManager.getInstance().getIUser();
