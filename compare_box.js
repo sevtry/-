@@ -1,5 +1,6 @@
 /*!   http://zzsvn.pcauto.com.cn/svn/other/pconline/product2011/js/product_compare_toolbar_version2.js */
 
+
 //cookie
 jQuery.cookie = function(name, value, options) {
     if (typeof value != 'undefined') {
